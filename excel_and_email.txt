@@ -1,0 +1,30 @@
+http://www.c-sharpcorner.com/article/import-data-from-excel-to-access-using-ado-net/
+http://www.mikesdotnetting.com/article/79/import-data-from-excel-to-access-with-asp-net
+https://www.youtube.com/watch?v=aMhZsUvIG_I
+
+https://msdn.microsoft.com/en-us/library/aa288452(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/ms971485.aspx
+
+https://coderwall.com/p/app3ya/read-excel-file-in-c
+http://stackoverflow.com/questions/5855813/npoi-how-to-read-file-using-npoi
+http://csharp.net-informations.com/excel/csharp-read-excel.htm
+
+http://stackoverflow.com/questions/9201239/send-e-mail-via-smtp-using-c-sharp
+https://msdn.microsoft.com/en-us/library/swas0fwc(v=vs.110).aspx
+https://www.codeproject.com/Tips/165548/C-Code-snippet-to-send-an-Email-with-attachment-fr
+
+
+1.	Parse the spreadsheet and upload it into a db
+2.	UI components for editing email templates
+3.	Email generation module
+a.	Completion email
+i.	To all
+ii.	Targeted audience
+b.	Pending email
+i.	To all
+ii.	Targeted audience
+c.	Escalation email
+i.	To all
+ii.	Targeted audience
+4.	Reporting module
+5.	Configuration ***
